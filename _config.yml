@@ -2,7 +2,7 @@ title: Test title
 author: GitHub User
 email: leiatfly@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-ok
+  OK.
 theme: minima
 
 # social links
